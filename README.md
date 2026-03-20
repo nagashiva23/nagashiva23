@@ -61,7 +61,7 @@
 [![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/nagashiva23)
 
 
-### >** Many more side quest projects in Electrical Drivetrain systems, Optimization approaches for Deep Learning, Pseudo Inverse based Autoencoders, ADMM approach to stripe noise removal of satellite images, Intrusion detection framework in BUS traffic, Traditional Chinese Methodology (TCM) based LLM for Tongue Disease detection and a couple other
+### >** Many more side quest projects in Electrical Drivetrain systems, Optimization approaches for Deep Learning, Pseudo Inverse based Autoencoders, ADMM approach to stripe noise removal of satellite images, Intrusion detection framework in BUS traffic, Traditional Chinese Methodology (TCM) based LLM for Tongue Disease detection and a couple other**
 
 ---
 ## Technologies & Tools
