@@ -23,7 +23,7 @@
 
 ###  Resilient Cybersecurity in Smart Grid ICS Communication
 - **First Author · Scientific Reports (Nature Portfolio) · Q1 ·**
-- Head over to th paper here -> [10.1038/s41598-025-17530-z](https://doi.org/10.1038/s41598-025-17530-z)
+- Head over to the paper here -> [10.1038/s41598-025-17530-z](https://doi.org/10.1038/s41598-025-17530-z)
 - This paper explores a security framework for smart grid systems using Machine Learning, Encryption, and Statistical analysis to detect and respond to cyber threats in real time.
 
 
@@ -31,7 +31,7 @@
 ---
 
 ###  Autonomous Dual Drone SAR & Delivery System · NIDAR / DFI India
-> **Active Research · Amrita Vishwa Vidyapeetham · Dec 2025 – Present**
+> Ongoing project with a multidisciplinary team integrating AI, hardware, and autonomous systems for real-world search and rescue operations.
 
 - Real-time human detection pipeline using **SSD MobileNet V2**
 - Improved **mAP@0.50 IoU: 55.6% → 70.1%** through pipeline refinement
