@@ -18,11 +18,11 @@
 
 ---
 
-## 🔬 Research & Projects
+##  Research & Projects
 
-### 📄 Resilient Cybersecurity in Smart Grid ICS Communication
+###  Resilient Cybersecurity in Smart Grid ICS Communication
 > **First Author · Scientific Reports (Nature Portfolio) · Q1 · May–Sept 2025**  
-> 🔗 DOI: [10.1038/s41598-025-17530-z](https://doi.org/10.1038/s41598-025-17530-z)
+> DOI: [10.1038/s41598-025-17530-z](https://doi.org/10.1038/s41598-025-17530-z)
 
 - ML-based intrusion detection for Industrial Control Systems in smart grid infrastructure
 - **AES-256-CBC** encryption with **BLAKE3** dynamic key rotation
@@ -31,7 +31,7 @@
 
 ---
 
-### 🚁 Autonomous Dual Drone SAR & Delivery System · NIDAR / DFI India
+###  Autonomous Dual Drone SAR & Delivery System · NIDAR / DFI India
 > **Active Research · Amrita Vishwa Vidyapeetham · Dec 2025 – Present**
 
 - Real-time human detection pipeline using **SSD MobileNet V2**
@@ -42,7 +42,7 @@
 
 ---
 
-### 📊 BizAI — Business Intelligence SaaS App
+###  BizAI — Business Intelligence SaaS App
 > **Team Lead (4-person team) · Amrita School of Business · Jan 2025 – Present**
 
 - Full-stack AI platform aggregating real-time news from **10+ sources**, live market data & AI insights
@@ -52,7 +52,7 @@
 
 ---
 
-### 🌿 AI-Enabled Autonomous Surface Vehicle for Water Hyacinth Removal
+###  AI-Enabled Autonomous Surface Vehicle for Water Hyacinth Removal
 > **Patent Application in Progress · Amrita Vishwa Vidyapeetham · 2025 – Present**
 
 - Designed and built a fully autonomous catamaran: navigates, detects, cuts, and collects
@@ -63,7 +63,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 |  |  |
 |---|---|
@@ -80,7 +80,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nagashiva23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
@@ -98,7 +98,7 @@
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin:_naga--shiva--dokku-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naga-shiva-dokku-55aa55321)
 [![Gmail](https://img.shields.io/badge/gmail:_dokkunagashiva-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dokkunagashiva@gmail.com)
