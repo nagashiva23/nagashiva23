@@ -146,6 +146,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin:_naga--shiva--dokku-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naga-shiva-dokku-55aa55321)
 [![Gmail](https://img.shields.io/badge/gmail:_dokkunagashiva-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dokkunagashiva@gmail.com)
-[![Nature Paper](https://img.shields.io/badge/Nature_Paper:_DOI_10.1038%2Fs41598--025--17530--z-1565C0?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://doi.org/10.1038/s41598-025-17530-z)
 
 [![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/nagashiva23)
