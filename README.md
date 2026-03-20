@@ -75,7 +75,7 @@
 
 ---
 
-## 🧠 Areas of Interest
+##  Areas of Interest
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python" /><br><br>
