@@ -80,23 +80,21 @@
 
 ---
 
-##  GitHub Stats
+## 🧠 Areas of Interest
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagashiva23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagashiva23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python" /><br><br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nagashiva23&theme=tokyonight&hide_border=true" />
-</p>
+  ![LLMs](https://img.shields.io/badge/Large_Language_Models-0A0A0A?style=for-the-badge&logo=openai&logoColor=white)
+  ![Agentic AI](https://img.shields.io/badge/Agentic_AI_Pipelines-FF6B35?style=for-the-badge&logo=autogen&logoColor=white)
+  ![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=google&logoColor=white)
+  ![LLM Finetuning](https://img.shields.io/badge/LLM_Finetuning-1DB954?style=for-the-badge&logo=huggingface&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nagashiva23&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
+  <br><br>
 
----
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,openai,langchain,pytorch,tensorflow,python,linux,git" />
+</div>
+
 
 ##  Let's Connect
 
