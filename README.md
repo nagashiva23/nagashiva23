@@ -8,8 +8,7 @@
 
 <img align="right" width="260" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" />
 
-
-- Passionate Developer and Researcher
+- Curious Researcher
 - AI Developer and Student at Amrita Vishwa Vidyapeetham
 - I build real time solutions for problems and bring impact through AI-driven systems, scalable engineering, and practical innovation.
 - I tinker across AI, Machine Learning, Deep Learning, Cybersecurity, Drones, YOLO, and OpenCV — building projects and learning as I go.
