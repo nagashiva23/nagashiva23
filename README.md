@@ -1,4 +1,4 @@
-# Hi, I'm Naga Shiva 
+# Hi, I'm Naga Shiva (A chill guy)
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Dokku%20Naga%20Shiva&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" />
