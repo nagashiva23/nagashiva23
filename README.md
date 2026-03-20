@@ -35,11 +35,11 @@
 
 - Real-time human detection pipeline using **SSD MobileNet V2**
 - Improved **mAP@0.50 IoU: 55.6% → 70.1%** through pipeline refinement
-- Currently working on the development nad testing of hardware setup of the drones
+- Currently working on the development and testing of hardware setup of the drones
 ---
 
 ###  BizAI — Business Intelligence SaaS App
-> **Team Lead (4-person team) · Amrita School of Business · Jan 2025 – Present**
+> **Team Lead  · Amrita School of Business ·**
 
 - Full-stack AI platform aggregating real-time news from **10+ sources**, live market data & AI insights
 - Built with **React 18, Vite, Tailwind CSS, Framer Motion** (Glassmorphism design)
