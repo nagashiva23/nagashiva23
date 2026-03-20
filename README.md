@@ -8,14 +8,14 @@
 
 <img align="right" width="260" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" />
 
-🎓 2nd-year B.Tech **CSE (Artificial Intelligence)** @ Amrita Vishwa Vidyapeetham · CGPA: **8.02**  
-📄 **First Author** — peer-reviewed paper in [*Scientific Reports, Nature Portfolio*](https://doi.org/10.1038/s41598-025-17530-z) (Q1 Journal)  
-🚁 Building real-time drone SAR systems @ **NIDAR Research Initiative, DFI India**  
-🔐 Published research on ICS cybersecurity with **AES-256-CBC + BLAKE3 + Edge TPU** deployment  
-🌿 **Patent pending** — AI-enabled Autonomous Surface Vehicle for water hyacinth removal  
-🤖 Member of the R&D team at **Tensor AI Club**  
-📷 Photographer & Videographer at **Team Media Club**  
-🌐 Personal reach: [dokkunagashiva@gmail.com](mailto:dokkunagashiva@gmail.com)
+2nd-year B.Tech **CSE (Artificial Intelligence)** @ Amrita Vishwa Vidyapeetham · CGPA: **8.02**  
+**First Author** — peer-reviewed paper in [*Scientific Reports, Nature Portfolio*](https://doi.org/10.1038/s41598-025-17530-z) (Q1 Journal)  
+Building real-time drone SAR systems @ **NIDAR Research Initiative, DFI India**  
+Published research on ICS cybersecurity with **AES-256-CBC + BLAKE3 + Edge TPU** deployment  
+**Patent pending** — AI-enabled Autonomous Surface Vehicle for water hyacinth removal  
+Member of the R&D team at **Tensor AI Club**  
+Photographer & Videographer at **Team Media Club**  
+
 
 [![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/nagashiva23)
 
