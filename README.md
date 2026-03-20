@@ -1,5 +1,9 @@
 # Hi, I'm Naga Shiva 
 
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Dokku%20Naga%20Shiva&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" />
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=cyan&size=22&center=true&vCenter=true&width=700&height=80&lines=AI+Developer+%26+Researcher;Published+Author+%E2%80%94+Scientific+Reports+(Nature+Q1);Edge+AI+%7C+Computer+Vision+%7C+Drone+Systems;Building+things+that+work+in+the+real+world.)](https://github.com/nagashiva23)
 
 ---
@@ -138,6 +142,22 @@
 ![LLM Finetuning](https://img.shields.io/badge/LLM_Finetuning-0D1117?style=for-the-badge&logo=huggingface&logoColor=white)
 
 </div>
+
+[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/nagashiva23)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagashiva23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagashiva23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nagashiva23&theme=tokyonight&hide_border=true" />
+</p>
 
 [![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/nagashiva23)
 
