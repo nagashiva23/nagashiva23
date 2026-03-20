@@ -1,4 +1,4 @@
-# Hi, I'm Naga Shiva 👋
+# Hi, I'm Naga Shiva 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=cyan&size=22&center=true&vCenter=true&width=700&height=80&lines=AI+Developer+%26+Researcher;Published+Author+%E2%80%94+Scientific+Reports+(Nature+Q1);Edge+AI+%7C+Computer+Vision+%7C+Drone+Systems;Building+things+that+work+in+the+real+world.)](https://github.com/nagashiva23)
 
@@ -41,19 +41,18 @@
 ###  BizAI — Business Intelligence SaaS App
 > **Team Lead  · Amrita School of Business ·**
 
-- Full-stack AI platform aggregating real-time news from **10+ sources**, live market data & AI insights
-- Built with **React 18, Vite, Tailwind CSS, Framer Motion** (Glassmorphism design)
-- Deployed as native Android app via **Capacitor**
-- AI features: sentiment analysis, trend prediction, quiz generation, gamified leaderboard
+- Full-stack AI platform aggregating real-time news from multiple RSS feeds, integrating AI for features like Personalization of news feed, daily quiz based on today's read, and regualr podcast suggestions.
+- An Interview repository helping students prepare for placements from a curated database of past year interviews from various companies, personal blogs from students who went through the interview sharing their experiences.
 
 ---
 
 ###  AI-Enabled Autonomous Surface Vehicle for Water Hyacinth Removal
 > **Patent Application in Progress · Amrita Vishwa Vidyapeetham · 2025 – Present**
 
-- Designed and built a fully autonomous catamaran: navigates, detects, cuts, and collects
+- Designed and built a fully autonomous catamaran: navigates, detects, cuts, and collects the hyacinth
 - **YOLO11n** real-time detection, optimized for Raspberry Pi deployment
 - Hybrid **GPS + vision-based** pathfinding system — zero human intervention
+- End Consumer found and hoping for a B2B soon
 
 [![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/nagashiva23)
 
