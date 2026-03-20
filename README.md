@@ -8,21 +8,11 @@
 
 <img align="right" width="260" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" />
 
-- 2nd-year B.Tech in CSE (Artificial Intelligence), Amrita Vishwa Vidyapeetham  
-- CGPA: 8.02  
 
-- First Author — Peer-reviewed publication in Scientific Reports (Nature Portfolio) (Q1 Journal)  
-  https://doi.org/10.1038/s41598-025-17530-z  
-
-- Building real-time drone-based SAR systems at NIDAR Research Initiative, DFI India  
-
-- Published research on ICS cybersecurity using AES-256-CBC, BLAKE3, and Edge TPU deployment  
-
-- Patent pending — AI-enabled Autonomous Surface Vehicle for water hyacinth removal  
-
-- Member of the R&D team at Tensor AI Club  
-
-- Photographer and Videographer at Team Media Club  
+- Passionate Developer and Researcher
+- AI Developer and Student at Amrita Vishwa Vidyapeetham
+- I build real time solutions for problems and bring impact through AI-driven systems, scalable engineering, and practical innovation.
+- I tinker across AI, Machine Learning, Deep Learning, Cybersecurity, Drones, YOLO, and OpenCV — building projects and learning as I go.
 
 
 [![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/nagashiva23)
