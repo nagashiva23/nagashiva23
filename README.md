@@ -22,13 +22,11 @@
 ##  Research & Projects
 
 ###  Resilient Cybersecurity in Smart Grid ICS Communication
-> **First Author · Scientific Reports (Nature Portfolio) · Q1 · May–Sept 2025**  
-> DOI: [10.1038/s41598-025-17530-z](https://doi.org/10.1038/s41598-025-17530-z)
+> **First Author · Scientific Reports (Nature Portfolio) · Q1 · 
+> Head over to th paper here -> [10.1038/s41598-025-17530-z](https://doi.org/10.1038/s41598-025-17530-z)
+> This paper explores a security framework for smart grid systems using Machine Learning, Encryption, and Statistical analysis to detect and respond to cyber threats in real time.
 
-- ML-based intrusion detection for Industrial Control Systems in smart grid infrastructure
-- **AES-256-CBC** encryption with **BLAKE3** dynamic key rotation
-- Bayesian forensic analysis for post-incident attribution
-- Real-time deployment & validation on **Google Coral Edge TPU**
+
 
 ---
 
