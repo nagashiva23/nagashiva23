@@ -35,10 +35,7 @@
 
 - Real-time human detection pipeline using **SSD MobileNet V2**
 - Improved **mAP@0.50 IoU: 55.6% → 70.1%** through pipeline refinement
-- SAHI-inspired **Tiling & Stitching** inference for small-object detection in wide-angle 4K footage
-- Achieving **50–100 FPS** on **Hailo-8** neural accelerator
-- Hardware: sensor mounting, onboard systems, real-time aerial deployment
-
+- Currently working on the development nad testing of hardware setup of the drones
 ---
 
 ###  BizAI — Business Intelligence SaaS App
